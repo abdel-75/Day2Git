@@ -10,5 +10,5 @@ public class Day2Demo {
 	 this is coming from Remote
 	*/
 	
-	Strong first_Name = "Jhon Cena";
+	String first_Name = "Jhon Cena";
 }
